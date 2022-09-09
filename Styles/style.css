@@ -25,10 +25,13 @@ body {
   color: #0078F0;
   font-size: 1.5rem;
   font-family: "Antonio", sans-serif;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 .conteudoPrincipal .observacao {
-  font-family: "Dancing Script", cursive;
-  font-family: 1rem;
+  font-family: "Antonio", sans-serif;
+  font-size: 1.2rem;
+  line-height: 16px;
+  left: 130px;
+  margin-top: 50px;
   position: absolute;
 }/*# sourceMappingURL=style.css.map */
