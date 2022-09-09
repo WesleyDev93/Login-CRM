@@ -1,0 +1,15 @@
+@import '../variaveis/variaveis';
+
+.conteudoPrincipal {
+    border-radius: 10px;
+    border: 2px solid $cor-azul;
+    height: 471px;
+    width: 518px;
+    .titulo {
+        display: flex;
+        
+    }
+    #login {
+        color: $cor-azul;
+    }
+}
